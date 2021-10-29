@@ -1,0 +1,5 @@
+nome = input('nome do funcionario: ')
+s = float(input('Quanto é o salário dele: '))
+a = s + (15/100*s)
+print('Sálario atual: ', s)
+print('Salário com aumento: ', a)
