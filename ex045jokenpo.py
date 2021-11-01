@@ -15,7 +15,7 @@ print('-=' * 11)
 jogador = int(input('Escolha sua opçâo: '))
 if jogador == 0 or jogador == 1 or jogador == 2:
     print('-=' * 11)
-    printe('PEDRA')
+    print('PEDRA')
     sleep(1)
     print('PAPEL')
     sleep(1)
